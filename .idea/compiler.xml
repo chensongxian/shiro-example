@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="shiro-example-chapter1" />
         <module name="shiro-example-chapter2" />
+        <module name="shiro-example-chapter3" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="8" />
